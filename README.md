@@ -1,6 +1,7 @@
 # simple-logistic-regression
+This document is about logistic regression and what I've learned and my understanding of it.
+
 I implemented a simple logistic regression model class using Numpy for calculating vectorized values and matplotlib library for visualizing data points.
-I document what I've learned and my understanding about it
 ## Sigmoid Function in Logistic Regression
 $$h_\theta (x) = \frac{1}{1 + e^{(-\theta^T x)}} $$
 
