@@ -1,5 +1,5 @@
 # simple-logistic-regression
-This document is about logistic regression and what I've learned and my understanding of it.
+This document is about what I've learned about logistic regression, as well as my understanding of it.
 
 I implemented a simple logistic regression model class using Numpy for calculating vectorized values and matplotlib library for visualizing data points.
 ## Sigmoid Function in Logistic Regression
